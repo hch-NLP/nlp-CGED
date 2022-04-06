@@ -1,0 +1,1 @@
+nohup python CGED_train.py > train.log 2>&1 &
